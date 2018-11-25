@@ -2,7 +2,7 @@
 
 A projected which started in 2016/2017. My first programming project written in visual basic, a chess game with additional features that try to mimic quantum mechanics. This project has been writted in OOP.
 
-This chess game also includes standard rules, except for like 'en ppasent'.
+This chess game also includes standard rules, except for en pasent and castling.
 
 Controls:
   - left click to move
@@ -21,6 +21,7 @@ Measurement will take place by the opponent's choice, there will be a 50/50 chan
 # To Do List
   1. Indicate when user has won
   2. Implement the score function
+  3. Add aditional rules
   3. Create a menu
   4. Add feature to save game and load
   5. Multiplayer?
