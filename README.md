@@ -17,7 +17,7 @@ Every piece on the table can go into a super position state except the Pawns. A 
 # Measurement
 ![successful_measurement](https://github.com/s5003597/Quantum-Chess/blob/master/images/successful_measurement.PNG)
 <br />
-Measurement will take place by the opponent's choice, there will be a 50/50 chance the piece will destruct or stay. If either of the superpositioned state pieced destructed, they will both disappear, else the piece that is being challenged stays, the piece becomes disentangled any 
+Measurement will take place by the opponent's choice, there will be a 50/50 chance the piece will destruct or stay. If either of the superpositioned state pieced destructed, they will both disappear, else only the piece that is being challenged will disappear leaving making the opponent move into that square.
 
 # To Do List
   1. Indicate when user has won
