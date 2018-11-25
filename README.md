@@ -22,9 +22,9 @@ Measurement will take place by the opponent's choice, there will be a 50/50 chan
   1. Indicate when user has won
   2. Implement the score function
   3. Add aditional rules
-  3. Create a menu
-  4. Add feature to save game and load
-  5. Multiplayer?
-  6. Add posibility to change control settings
-  7. Adjust quantum rules to mimic the mechanics more closely
-  8. Better GUI
+  4. Create a menu
+  5. Add feature to save game and load
+  6. Multiplayer?
+  7. Add posibility to change control settings
+  8. Adjust quantum rules to mimic the mechanics more closely
+  9. Better GUI
