@@ -53,3 +53,7 @@ D:\Ghost\Documents\Development\Visual\Quantum-Chess\QuantumChessIT2\QuantumChess
 D:\Ghost\Documents\Development\Visual\Quantum-Chess\QuantumChessIT2\QuantumChessIT2\obj\Debug\QuantumChessIT2.exe
 D:\Ghost\Documents\Development\Visual\Quantum-Chess\QuantumChessIT2\QuantumChessIT2\obj\Debug\QuantumChessIT2.xml
 D:\Ghost\Documents\Development\Visual\Quantum-Chess\QuantumChessIT2\QuantumChessIT2\obj\Debug\QuantumChessIT2.pdb
+D:\Ghost\Documents\Development\Visual\Quantum-Chess\QuantumChessIT2\QuantumChessIT2\bin\Debug\QuantumChessIT2.exe.config
+D:\Ghost\Documents\Development\Visual\Quantum-Chess\QuantumChessIT2\QuantumChessIT2\bin\Debug\QuantumChessIT2.exe
+D:\Ghost\Documents\Development\Visual\Quantum-Chess\QuantumChessIT2\QuantumChessIT2\bin\Debug\QuantumChessIT2.pdb
+D:\Ghost\Documents\Development\Visual\Quantum-Chess\QuantumChessIT2\QuantumChessIT2\bin\Debug\QuantumChessIT2.xml

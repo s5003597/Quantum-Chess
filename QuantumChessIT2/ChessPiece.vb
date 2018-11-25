@@ -7,6 +7,7 @@
     Protected noOfMoves As Integer
     Protected tileSize As Integer
     Protected classical As Boolean = True
+    Protected _rnd As New Random()
 
     'QUANTUM
     Protected quantumClick As Boolean
@@ -72,7 +73,7 @@
 
             If piece.getState = False Then 'Checks if it is not classical
                 ' If CInt(Int((2 * Rnd()) + 1)) = 1 Then 'Does the probability to check if it is real
-                If (Int(Rnd() * 100) + 1) <= 50 Then
+                If _rnd.Next(0, 100) <= 50 Then
                     piece.classical = True
                     If secondClickX = piece.posX And secondClickY = piece.posY Then
                         piece.posX = piece.quantumX 'Corrects the position of the piece
